@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Yousef Alaa",
+      "email": "youssef@example.com",
+      "city": "Cairo"
+    },
+    {
+      "id": "2",
+      "name": "Ahmed Mostafa elkashef",
+      "email": "ahmed@example.com",
+      "city": "Alexandria"
+    },
+    {
+      "id": "3",
+      "name": "Ali mohamed",
+      "email": "ali@example.com",
+      "city": "Giza"
+    }
+  ]
+}
